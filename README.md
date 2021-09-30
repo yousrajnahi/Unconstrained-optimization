@@ -14,7 +14,7 @@ C implementation of unconstrained optimization algorithms.
 
 - [x] Armijo method
 - [x] Goldstein method
-- [x] Wolfe method ( strong & weak)
+- [x] Wolfe method (strong & weak)
 
 ## Multidimensional functions
 
