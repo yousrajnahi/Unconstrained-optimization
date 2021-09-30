@@ -6,7 +6,9 @@ We are interested in the problem of optimizing a function f on a domain X and wi
 
 --------------------------------------------
 
-                                The problem therefore to be solved is: min f(x) = f (x*), x in X
+
+The problem therefore to be solved is: min f(x) = f (x*), x in X
+
 
 -----------------------------------------------
 
@@ -18,7 +20,8 @@ We will always assume thereafter that the minimum is reached at a single point x
 ----------------------------------------------
 
 
-                                The problem therefore to be solved is: arg min f(x) = x*, x in X
+The problem therefore to be solved is: arg min f(x) = x*, x in X
+
 
 -----------------------------------------------
 
@@ -27,7 +30,9 @@ Maximizing or minimizing a function is a common problem in many areas but it is 
 ------------------------------------------
 
 
-                                                     xn+1 = xn + lambda * dn
+
+xn+1 = xn + lambda * dn
+
 
 
 ------------------------------------------------
