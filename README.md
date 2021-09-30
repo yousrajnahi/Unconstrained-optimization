@@ -22,7 +22,10 @@ We will always assume thereafter that the minimum is reached at a single point x
 ----------------------------------------------
 
 
-The problem therefore to be solved is: arg min f(x) = x*, x in X
+<p align="center">
+    The problem therefore to be solved is: arg min f(x) = x*, x in X
+</p>
+
 
 
 -----------------------------------------------
@@ -31,9 +34,12 @@ Maximizing or minimizing a function is a common problem in many areas but it is 
 
 ------------------------------------------
 
+<p align="center">
+    xn+1 = xn + lambda * dn
+</p>
 
 
-xn+1 = xn + lambda * dn
+
 
 
 
@@ -49,8 +55,10 @@ The correct step is the one that satisfies the following condition and it is usu
 
 ------------------------------------------
 
+<p align="center">
+   min f(xn + lambda * dn) = lambda*, lambda>0
+</p>
 
-min f(xn + lambda * dn) = lambda*, lambda>0
 
 
 ------------------------------------------------
