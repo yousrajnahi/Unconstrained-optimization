@@ -56,7 +56,28 @@ The correct step is the one that satisfies the following condition and it is usu
 
 # Implemented functions
 
-## Implemented functions : unidimensional functions
+## Numerical analysis for unidimensional functions
+
+- [x] First order derivatives
+- [x] Second order derivatives
+
+## Numerical analysis for multidimensional functions
+
+- [x] First order partial differential 
+- [x] Second order partial differential 
+- [x] Gradient 
+- [x] Hessian
+- [x] Determinant 
+- [x] Positive definite 
+- [x] LU decomposition
+- [x] Resolution of a lower triangular system
+- [x] Resolution of a higher triangular system
+- [x] Resolution of a system
+- [x] Inverse of a Matrix
+
+
+
+## Optimization for unidimensional functions
 
 ### Exact methods for optimization
 
@@ -70,7 +91,7 @@ The correct step is the one that satisfies the following condition and it is usu
 - [x] Goldstein method
 - [x] Wolfe method (strong & weak)
 
-## Implemented functions : multidimensional functions
+## Optimization for multidimensional functions
 
 - [x] Gradient descent method
 - [x] Conjugate gradient method
