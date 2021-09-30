@@ -1,6 +1,6 @@
 # Unconstrained-optimization
 
-C implementation of unconstrained optimization algorithms.
+> C implementation of unconstrained optimization algorithms.
 
 # Implemented functions
 
