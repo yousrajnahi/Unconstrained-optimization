@@ -6,8 +6,10 @@ We are interested in the problem of optimizing a function f on a domain X and wi
 
 --------------------------------------------
 
+<p align="center">
+    The problem therefore to be solved is: min f(x) = f (x*), x in X
+</p>
 
-The problem therefore to be solved is: min f(x) = f (x*), x in X
 
 
 -----------------------------------------------
