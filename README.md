@@ -68,12 +68,12 @@ The correct step is the one that satisfies the following condition and it is usu
 - [x] Gradient 
 - [x] Hessian
 - [x] Determinant 
-- [x] Positive definite 
+- [x] Positive definite matrix 
 - [x] LU decomposition
 - [x] Resolution of a lower triangular system
 - [x] Resolution of a higher triangular system
 - [x] Resolution of a system
-- [x] Inverse of a Matrix
+- [x] Inverse of a matrix
 - [x] Hessian inverse approximation (BFGS,DFP,SR1)
 
 
