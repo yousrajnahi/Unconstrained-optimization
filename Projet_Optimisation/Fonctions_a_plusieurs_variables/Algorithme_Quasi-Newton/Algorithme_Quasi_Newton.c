@@ -50,7 +50,7 @@ double* Algorithme_Quasi_Newton(double x0[n], double tol,double (*fonc)(double*)
         d=soustraction_vecteur(null,produit_matrice_vecteur(H,gg));
         alpha=Algorithme_de_bissection_h(0,1,tol,x,fonc);
         //alpha=Algorithme_de_Newton_h(1,tol,x,fonc); 
-        //alpha=Algorithme_de_la_fausse_position_h(0,1,tol,x,fonc);**d modifier h **
+        //alpha=Algorithme_de_la_fausse_position_h(0,1,tol,x,fonc);
         //alpha=Algorithme_Goldstein_h(0.1,2,0.4,x,fonc);
         //alpha=Algorithme_de_Weak_Wolfe_h(0.1,x,fonc,0.2,0.3);
         //alpha=Algorithme_de_Strong_Wolfe_h(0.1,x,fonc,0.2,0.3);
