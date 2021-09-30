@@ -27,13 +27,13 @@ Maximizing or minimizing a function is a common problem in many areas but it is 
 ------------------------------------------
 
 
-                                                            xn+1 = xn + lambda * dn
+                                                       xn+1 = xn + lambda * dn
 
 
 ------------------------------------------------
 
 
-The direction of search dk often given by the gradient or the Hessian matrix. In particular, in the field of machine learning, the need to set a learning rate (size of steps) lambda  was recognized as problematic. Setting this too high parameter can cause the algorithm to diverge, the setting too low makes it slow to converge.
+The direction of search dn often given by the gradient or the Hessian matrix. In particular, in the field of machine learning, the need to set a learning rate (size of steps) lambda  was recognized as problematic. Setting this too high parameter can cause the algorithm to diverge, the setting too low makes it slow to converge.
 
 
 
@@ -43,7 +43,7 @@ The correct step is the one that satisfies the following condition and it is usu
 ------------------------------------------
 
 
-                                                                        min f( xn + lambda * dn) = lambda*, lambda>0
+                                               min f( xn + lambda * dn) = lambda*, lambda>0
 
 
 ------------------------------------------------
