@@ -10,5 +10,6 @@ int main()
     {
         printf("%lf \n",p[i]);
     }
+    
     return(0);
 }
