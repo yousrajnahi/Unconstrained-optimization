@@ -1,5 +1,7 @@
-# Unconstrained-optimization-
+# Unconstrained-optimization
+
 C implementation of unconstrained optimization algorithms.
+
 # Implemented functions
 
 ## Unidimensional functions
@@ -22,3 +24,7 @@ C implementation of unconstrained optimization algorithms.
 - [x] Conjugate gradient method
 - [x] Newton method
 - [x] Quasi-Newton method 
+
+# 
+We are interested in the problem of optimizing a function \mathbb{J} on a domain X and with values
+in R. We will always assume that X is a non-empty subset of R^d.
