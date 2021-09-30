@@ -4,7 +4,7 @@
 
 # Implemented functions
 
-## Unidimensional functions
+## Implemented functions : unidimensional functions
 
 ### Exact methods for optimization
 
@@ -18,7 +18,7 @@
 - [x] Goldstein method
 - [x] Wolfe method (strong & weak)
 
-## Multidimensional functions
+## Implemented functions : multidimensional functions
 
 - [x] Gradient descent method
 - [x] Conjugate gradient method
