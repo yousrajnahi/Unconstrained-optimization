@@ -1,5 +1,5 @@
 # Unconstrained-optimization
-
+******************************************
 > C implementation of unconstrained optimization algorithms.
 
 We are interested in the problem of optimizing a function f on a domain X and with values in R. We will always assume that X is a non-empty subset of R^d. Minimizing the function f is of course equivalent to maximizing −f.
