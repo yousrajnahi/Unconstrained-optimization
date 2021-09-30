@@ -43,7 +43,7 @@ The correct step is the one that satisfies the following condition and it is usu
 ------------------------------------------
 
 
-                                               min f( xn + lambda * dn) = lambda*, lambda>0
+                                               min f(xn + lambda * dn) = lambda*, lambda>0
 
 
 ------------------------------------------------
