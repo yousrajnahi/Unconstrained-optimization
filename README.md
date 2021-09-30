@@ -74,6 +74,7 @@ The correct step is the one that satisfies the following condition and it is usu
 - [x] Resolution of a higher triangular system
 - [x] Resolution of a system
 - [x] Inverse of a Matrix
+- [x] Hessian inverse approximation (BFGS,DFP,SR1)
 
 
 
